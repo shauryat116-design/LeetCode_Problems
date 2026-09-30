@@ -19,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
@@ -36,5 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
