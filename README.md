@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [4022-k-th-digit-in-infinite-string](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/4022-k-th-digit-in-infinite-string) |
+## Binary Search
+|  |
+| ------- |
+| [4022-k-th-digit-in-infinite-string](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/4022-k-th-digit-in-infinite-string) |
 <!---LeetCode Topics End-->
