@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4022-k-th-digit-in-infinite-string](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/4022-k-th-digit-in-infinite-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
