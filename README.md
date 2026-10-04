@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
@@ -37,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
