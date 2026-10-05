@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0645-set-mismatch) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
