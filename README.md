@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2716-minimize-string-length](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/2716-minimize-string-length) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2716-minimize-string-length](https://github.com/shauryat116-design/LeetCode_Problems/tree/master/2716-minimize-string-length) |
 ## Counting
 |  |
 | ------- |
